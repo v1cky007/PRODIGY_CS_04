@@ -1,0 +1,25 @@
+Key.shift'T''T''h''h''i''i''s' 'i''s''s' 'a'  'e''e''x''x''a''m''m''p''p''l''l''e''e'  'o''f' 'j'[BACKSPACE]'k''e''y''l''o''o''g''g''e''e''r'
+[BACKSPACE][BACKSPACE]'k''k''e''e''y''l''o''o''g''g''g''e''r'
+
+'s''s''a''m''m''e''e'  'h''h''e''r''r''e''e' 'n''o''w''w'  'o''n''n''l''l''y''y' 'w''w''o''o''k''e''e' 'u''u''p''p'     [BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]
+Key.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l'g''c''c'[BACKSPACE][BACKSPACE]'c''c''e''e''t'
+'g''g''i''i''t''t''a''a''b''b''r''r''o''o''n''n'[BACKSPACE][BACKSPACE]'h''h''n''n''e''e''e''e''e''l''l' 'r''r''o''o''y''y'
+
+[BACKSPACE][BACKSPACE]
+
+Key.leftKey.leftKey.left[BACKSPACE][BACKSPACE]Key.shift'R''R'
+
+Key.leftKey.left[BACKSPACE]Key.shiftKey.shift'A''A'
+
+Key.ctrl_l'\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03'Key.ctrl_l'\x16'[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]
+'\\''\\''h''h''o''o''w' 't''t''o''o'  'c''l''l''o''o''n''e''e' 's''s'[BACKSPACE][BACKSPACE]'o''t''t''h''e''e''r'  'r''r'[BACKSPACE]'t''o' 'm''y' Key.rightKey.leftKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.rightKey.rightKey.right'p''o' Key.rightKey.rightKey.rightKey.rightKey.leftKey.leftKey.left Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.leftKey.leftKey.rightKey.rightKey.leftKey.leftKey.rightKey.rightKey.right  'c''c''d''d' 'd''e''e''s''k''k''t''t''o''p''p'
+'g''i''i''t''t' 'c''c''l''o''o''n''e' Key.ctrl_l'\x16'
+
+Key.upKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.leftKey.leftKey.right'g''g''i''t'  [BACKSPACE][BACKSPACE]'h''u''u''b''b' Key.leftKey.leftKey.left  Key.rightKey.rightKey.leftKey.leftKey.rightKey.rightKey.rightKey.right  'm''y''y'[BACKSPACE][BACKSPACE]'y''y''g''g''e''n''r''a''a''t''t''i''i''v''v''e''e' 'a''a''i''i'
+Key.ctrl_l'\x01'Key.ctrl_l'\x03''\x03''\x03''\x03''\x03''\x03''\x03''m''m''u'Key.ctrl_l'\x16''\x16'
+
+Key.ctrl_l'\x16'Key.ctrl_l'\x01''\x01'[BACKSPACE][BACKSPACE]Key.cmdKey.cmd'v''v'Key.ctrl_lKey.ctrl_l'\x16'Key.ctrl_l'\x16''\x16'Key.ctrl_l'\x03''\x03'Key.ctrl_l'\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03'Key.ctrl_lKey.ctrl_l'\x16''\x16'Key.ctrl_lKey.ctrl_l'\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03'Key.ctrl_l'\x16''\x16'Key.ctrl_lKey.ctrl_l'\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03'Key.ctrl_l'\x16''\x16'
+
+Key.ctrl_l'\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03''\x03'Key.ctrl_lKey.ctrl_l'\x03''\x03''\x16''\x16'
+
+Key.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l
